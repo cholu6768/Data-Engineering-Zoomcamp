@@ -1,2 +1,5 @@
 # Data-Engineering-Zoomcamp
-Homeworks from the DE Zoomcamp course
+
+Here is where I will be submitting my homeworks for the course :)
+
+
